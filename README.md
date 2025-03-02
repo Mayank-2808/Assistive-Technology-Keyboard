@@ -1,5 +1,5 @@
 # SFU CMPT 340 Project Template -- Replace with project title
-Members: Gurman Chauhan, Sean Yoon
+Members: Gurman Chauhan, Sean Yoon, Jessy Chahal
 
 This repository is a template for your CMPT 340 course project.
 Replace the title with your project title, and **add a snappy acronym that people remember (mnemonic)**.
