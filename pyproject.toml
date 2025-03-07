@@ -1,7 +1,9 @@
 [project]
 name = "2025_1_project_09"
+version = "0.0.1"
 dependencies = [
     "flask",
+    "flask_cors"
 ]
 
 [build-system]
