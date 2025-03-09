@@ -1,0 +1,18 @@
+.keyboard-autocomplete {
+    margin: 0 auto;
+    width: fit-content;
+    display: flex;
+}
+
+.suggestion {
+    background-color: #ebebeb;
+    height: 5vh;
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    color: #000;
+    font-size: 32px;
+    font-weight: 350;
+    padding: 0px 20px;
+}

@@ -1,0 +1,83 @@
+:root {
+    --base-length: 75px;
+}
+
+.key {
+    height: var(--base-length);
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    color: #000;
+    font-size: 24px;
+    font-weight: 750;
+}
+
+.keyboard {
+    background-color: #ebebeb;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.row {
+    display: flex;
+}
+
+/* Check if 2nd row has 10 children */
+.row:nth-child(2):has(> :last-child:nth-child(10)) {
+    margin-left: 0px;
+}
+
+.row:nth-child(2) {
+    margin-left: 25px;
+}
+
+.row:nth-child(3) {
+    margin-left: 40px;
+}
+
+.row:nth-child(4) {
+    margin-left: 125px;
+}
+
+.key-color-red {
+    background-color: #ff0000;
+    color: #fff;
+}
+
+.key-color-green {
+    background-color: #a2e468;
+}
+
+.key-color-blue {
+    background-color: #66b5e7;
+}
+
+.key-color-yellow {
+    background-color: #fff700;
+}
+
+.key-color-purple {
+    background-color: #ea7feb;
+}
+
+.key-color-orange {
+    background-color: #ff8d00;
+}
+.w-1 {
+    width: var(--base-length);
+}
+
+.w-2 {
+    width: calc(var(--base-length) * 2 + 10px);
+}
+
+.w-3 {
+    width: calc(var(--base-length) * 3);
+}
+
+.w-4 {
+    width: calc(var(--base-length) * 4 + 30px);
+}
