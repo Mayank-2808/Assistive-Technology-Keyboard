@@ -23,7 +23,7 @@ An interactive on-screen keyboard designed to assist individuals with limited mo
 Explain briefly what files are found where
 
 ```bash
-2025_1_project_09
+Assistive-Technology-Keyboard
 ├── client                       ## client-side code (React.js)
     ├── public                   ## base HTML file, app metadata (favicon, logo, etc.)
     ├── src                      ## client-side source code
