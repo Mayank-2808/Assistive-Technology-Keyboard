@@ -1,24 +1,5 @@
-# SFU CMPT 340 Project Template -- Replace with project title
+# Assistive Technology Keyboard
 
-Members: Gurman Chauhan, Sean Yoon, Jessy Chahal, Alfonso Ocampo, Mayank Mayank
-
-This repository is a template for your CMPT 340 course project.
-Replace the title with your project title, and **add a snappy acronym that people remember (mnemonic)**.
-
-Add a 1-2 line summary of your project here.
-
-## Important Links
-
-| [Timesheet](https://1sfu-my.sharepoint.com/:x:/g/personal/hamarneh_sfu_ca/EYhdYiaql_VAt8gbXWehoLsBU8ZkR0g8cuDm2RMfX1UUiw?e=G4ZNz6) | [Slack channel](https://app.slack.com/client/T08645XD55G/C0879S5QZNY) | [Project report](https://www.overleaf.com/2532915892vphfsbshjyxj#c7f525) |
-| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-
--   Timesheet: Link your timesheet (pinned in your project's Slack channel) where you track per student the time and tasks completed/participated for this project/
--   Slack channel: Link your private Slack project channel.
--   Project report: Link your Overleaf project report document.
-
-## Video/demo/GIF
-
-Record a short video (1:40 - 2 minutes maximum) or gif or a simple screen recording or even using PowerPoint with audio or with text, showcasing your work.
 
 ## Table of Contents
 
