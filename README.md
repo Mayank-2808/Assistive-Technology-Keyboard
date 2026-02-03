@@ -2,11 +2,6 @@
 
 An interactive on-screen keyboard designed to assist individuals with limited mobility or accessibility needs. ATK harnesses text prediction and voice synthesis among other features to simplify and enhance user communication.
 
-
-## Video/demo/GIF
-
-Record a short video (1:40 - 2 minutes maximum) or gif or a simple screen recording or even using PowerPoint with audio or with text, showcasing your work.
-
 ## Table of Contents
 
 1. [Demo](#demo)
